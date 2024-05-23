@@ -247,11 +247,12 @@ footer{
 }
 .mb-3{
     background-color:  rgb(115, 215, 16) ;
-    width: 500px;
+    width: 400px;
     text-align: center;
     margin: 500;
     padding: 20px;
     border-radius: 30px;
     display: flex;
+    flex-direction: column;
     
 }
